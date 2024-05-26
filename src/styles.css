@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.ques-container {
+  background-color: bisque;
+  margin: 5px;
+  border-radius: 10px;
+  height: auto;
+  width: auto;
+}
+.ques-box {
+  display: flex;
+  text-align: left;
+  padding: 10px 5px;
+  font-weight: bold;
+}
+button {
+  outline: none;
+  border: none;
+  background-color: aqua;
+  border-radius: 4px;
+  font-size: 20px;
+}
+.ans-box {
+  text-align: left;
+  margin: 0px 30px;
+}
+.arrow {
+  transform: rotate(90deg);
+}
